@@ -29,7 +29,8 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
   
 <h4>Example:</h4> 
 
-![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/dd15fe46-faeb-47b2-aad1-06f67726c9dc)
+![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/71b6bd4a-eca6-4486-acb1-325bb7681b1e)
+
 
 - After that you will have to run the application again and your file will be successfully renamed
 
