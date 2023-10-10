@@ -35,7 +35,7 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 
 - After that you will have to run the application again and your file will be successfully renamed
 
-# RESULT
+# Result
 ![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/17f81a6d-72ac-423e-9402-1eaec0397a77)
 
 
