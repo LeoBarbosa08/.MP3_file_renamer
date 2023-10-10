@@ -12,7 +12,6 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>dir
 10/10/2023  08:14    <DIR>          ..
 10/10/2023  09:15             1.067 rename.py
                1 arquivo(s)          1.067 bytes
-
 ```
 - After that you can run the aplication in the directory's prompt
 - Example:
