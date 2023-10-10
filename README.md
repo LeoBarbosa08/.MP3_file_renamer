@@ -13,6 +13,3 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>dir
                1 arquivo(s)          1.067 bytes
                
 C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
-
-  
-
