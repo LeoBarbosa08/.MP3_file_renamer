@@ -13,6 +13,8 @@
                1 arquivo(s)          1.067 bytes
 
 ```
-
-               
-C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
+- After that you can run the aplication in the directory's prompt
+- Example:
+                  
+```C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
+```
