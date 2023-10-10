@@ -22,6 +22,7 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 
 # Rename the files
 - You will go to the created directory "rename_mp3_txt" and access its internal folders
- <img width="602" alt="Capturar" src="https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/43bf5771-f1b9-44b0-8dad-97a38660630a">
+![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/2e35829b-3fa0-4e92-a552-a243e4392103)
+
 
 
