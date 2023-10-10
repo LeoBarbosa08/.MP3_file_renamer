@@ -19,4 +19,4 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>dir
 ```
 C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 ```
-- A directory called <b>rename_mp3_txt</b> will be created and within it there will be two folders <b>mp3</b> and <b>txt</b>
+- A directory called <b>rename_mp3_txt</b> will be created and within it there will be two folders <b>MP3</b> and <b>TXT</b>
