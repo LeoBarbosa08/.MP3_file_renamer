@@ -14,8 +14,7 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>dir
                1 arquivo(s)          1.067 bytes
 ```
 - After that you can run the aplication in the directory's prompt
-- Example:
-                  
+  <h4>Example:</h4>                
 ```
 C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 ```
