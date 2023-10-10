@@ -22,7 +22,7 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 
 # Rename the files
 - You will go to the created directory "rename_mp3_txt" and access its internal folders
-- <br>
+<br>
 ![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/2e35829b-3fa0-4e92-a552-a243e4392103)
 
 
