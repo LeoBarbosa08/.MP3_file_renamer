@@ -5,7 +5,7 @@
 - Firts you need to download python in your machine <a href= "https://www.python.org/downloads/" > download here </a>
 - You need to run the application in the directory where the .py file is located
 - You can use the command in the prompt <b>DIR</b> to see if the .py file exists in that directory
-- Example:
+  <h4>Example</h4>:
 ```
 C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>dir
 10/10/2023  08:14    <DIR>          .
