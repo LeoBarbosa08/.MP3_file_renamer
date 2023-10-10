@@ -16,5 +16,6 @@
 - After that you can run the aplication in the directory's prompt
 - Example:
                   
-```C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
+```
+C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 ```
