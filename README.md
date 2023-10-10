@@ -26,4 +26,10 @@ C:\Users\ALMG\Desktop\GITHUB\PYTHON\tes>python rename.py
 ![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/2e35829b-3fa0-4e92-a552-a243e4392103)
 
 - You will place your <b>.TXT</b> and <b>.MP3</b> files in the appropriate folders
+  
+<h4>Example:</h4> 
+![image](https://github.com/LeoBarbosa08/.MP3_file_renamer/assets/84389162/dd15fe46-faeb-47b2-aad1-06f67726c9dc)
+- After that you will have to run the application again and your file will be successfully renamed
+
+
 
